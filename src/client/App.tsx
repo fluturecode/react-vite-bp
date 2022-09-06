@@ -1,6 +1,5 @@
-import React from "react";
-import Main from "./pages/Main";
 import { ContextWrapper } from "./Context";
+import { Main } from "./pages/Main";
 
 export const App = () => {
   return (
