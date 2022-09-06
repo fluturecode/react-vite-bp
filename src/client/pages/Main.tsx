@@ -12,7 +12,7 @@ const Main = () => {
           This is a Vite React SSR Tailwind boilerplate!
         </h2>
         <input
-          placeholder={"Enter your name"}
+          placeholder={"Elizabeth Eidelson"}
           onChange={e => setName(e.currentTarget.value)}
           style={{ background: "#8080802e" }}
           className="focus:ring-indigo-500 focus:border-indigo-500 block w-full text-2xl border-gray-300 rounded-md p-2"
